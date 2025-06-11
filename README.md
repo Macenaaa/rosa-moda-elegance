@@ -52,3 +52,28 @@ npm run dev
 
 ## Quais tecnologias são usadas neste projeto?
 
+Este projeto foi construído com:
+
+* Vite
+* TypeScript
+* React
+* shadcn-ui
+* Tailwind CSS
+
+## Como posso implantar este projeto?
+
+Basta abrir o [Lovable](https://lovable.dev/projects/2353d141-bb39-4640-97db-1957f0b4ccfc) e clicar em Share -> Publish.
+
+## Posso conectar um domínio personalizado ao meu projeto Lovable?
+
+Sim, você pode!
+
+Para conectar um domínio, vá em Projeto > Configurações > Domínios e clique em Conectar Domínio.
+
+Leia mais aqui: [Configurando um domínio personalizado](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+
+---
+
+Se quiser adaptar para um tom mais formal ou mais técnico, posso ajustar.
+
+
