@@ -70,10 +70,6 @@ Sim, você pode!
 
 Para conectar um domínio, vá em Projeto > Configurações > Domínios e clique em Conectar Domínio.
 
-Leia mais aqui: [Configurando um domínio personalizado](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
 
----
-
-Se quiser adaptar para um tom mais formal ou mais técnico, posso ajustar.
 
 
