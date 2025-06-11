@@ -1,8 +1,4 @@
-Claro! Aqui está a tradução do texto, mantendo os links originais intactos:
-
----
-
-# Bem-vindo ao seu projeto Lovable
+# Bem-vindo ao meu projeto Lovable❤️
 
 ## Informações do projeto
 
